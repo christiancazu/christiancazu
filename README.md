@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A passionate javascript developer from Perú</h3>
+<h3 align="center">A passionate Javascript Developer from Perú</h3>
 
 <h2>About my skills</h2>
 <h3>Web Development</h3>
-<h6>Typescript, JS vanilla ES5 ~ ES10, JQuery, Leaflet, HTML, CSS grid & flex.</h6>
+<h6>Typescript, JS vanilla ES5 ~ ES10, JQuery, Leaflet, HTML, CSS grid & flex, sass</h6>
 
 <h5> 🌱 I’m Vue expert with about 3 years working with <strong><em>Vue</em></strong></h5>
 <ul>
