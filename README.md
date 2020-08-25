@@ -1,7 +1,43 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">A passionate javascript developer from Perú</h3>
 
-- 🌱 I’m currently learning **TSX**
+<h2>About my skills</h2>
+<h3>Web Development</h3>
+<h6>Typescript, JS vanilla ES5 ~ ES10, JQuery, Leaflet, HTML, CSS grid & flex.</h6>
+
+<h5> 🌱 I’m Vue expert with about 3 years working with <strong><em>Vue</em></strong></h5>
+<ul>
+  <li>Vue-Router</li>
+  <li>Vuex</li>
+  <li>composition-api</li>
+  <li>vue-apollo | apollo-composable</li>
+  <li>Quasar Framework, Nuxt, Vue cli, Element-UI, Vuetify, Vue-bootstrap</li>
+  <li>PWA</li>
+  <li>Cordova</li>
+</ul>
+<ul>
+  <li>React TSX | hooks, redux</li>
+</ul>
+
+<h5>Backend</h5>
+<ul>
+  <li>Nest.js(apis: REST, GraphQL)</li>
+  <li>TypeORM</li>
+  <li>Mongoose</li>
+</ul>
+<ul>
+  <li>PHP</li>
+  <li>Codeigniter</li>
+  <li>Laravel 6</li>
+  <li>Symfony 5</li>
+</ul>
+
+<h5>Databases</h5>
+<ul>
+  <li>MySQL</li>
+  <li>PgSQL</li>
+  <li>MongoDB</li>
+</ul>
 
 - 📫 How to reach me **christiancazu@gmail.com**
 
