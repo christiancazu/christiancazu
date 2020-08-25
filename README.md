@@ -3,7 +3,7 @@
 
 <h2>About my skills</h2>
 <h3>Web Development</h3>
-<h6>Typescript, JS vanilla ES5 ~ ES10, JQuery, Leaflet, HTML, CSS grid & flex, sass</h6>
+<h6>Typescript, Javascript vanilla ES5 ~ ES10, JQuery, Leaflet, HTML, CSS grid & flex, sass</h6>
 
 <h5> 🌱 I’m Vue expert with about 3 years working with <strong><em>Vue</em></strong></h5>
 <ul>
