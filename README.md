@@ -2,15 +2,16 @@
 <h3 align="center">A passionate Javascript Developer from Perú</h3>
 
 <h2>About my skills</h2>
-<h3>Web Development</h3>
-<h6>Typescript, Javascript vanilla ES5 ~ ES10, JQuery, Leaflet, HTML, CSS grid & flex, sass</h6>
+<h6>Typescript, Javascript ES5 ~ ES10, JQuery, Leaflet, HTML, CSS grid, flex, sass</h6>
 
-<h5> 🌱 I’m Vue expert with about 3 years working with <strong><em>Vue</em></strong></h5>
+<h4> 🌱 I’m Vue expert with about 3 years working with <strong><em>Vue</em></strong></h4>
+
+<h5>Frontend</h5>
 <ul>
   <li>Vue-Router</li>
   <li>Vuex</li>
   <li>composition-api</li>
-  <li>vue-apollo | apollo-composable</li>
+  <li>vue-apollo | apollo-composable | apollo-client</li>
   <li>Quasar Framework, Nuxt, Vue cli, Element-UI, Vuetify, Vue-bootstrap</li>
   <li>PWA</li>
   <li>Cordova</li>
@@ -28,7 +29,7 @@
 <ul>
   <li>PHP</li>
   <li>Codeigniter</li>
-  <li>Laravel 6</li>
+  <li>Laravel 7</li>
   <li>Symfony 5</li>
 </ul>
 
