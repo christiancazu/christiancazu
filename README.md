@@ -46,7 +46,7 @@
 <a href="https://codepen.io/christiancazu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="christiancazu" height="30" width="30" /></a>
 <a href="https://twitter.com/christiancazu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="christiancazu" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/christian-carrillo-zúñiga-8458bb13a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christian-carrillo-zúñiga-8458bb13a/" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/christiancazu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="christiancazu" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/10872684/christian-carrillo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="christiancazu" height="30" width="30" /></a>
 <a href="https://codesandbox.com/christiancazu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="christiancazu" height="30" width="30" /></a>
 <a href="https://fb.com/christiancazu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="christiancazu" height="30" width="30" /></a>
 <a href="https://instagram.com/christiancazu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="christiancazu" height="30" width="30" /></a>
